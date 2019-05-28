@@ -1,0 +1,52 @@
+
+#wb_header { height: 191px; }
+#wb_header > .wb_cont_bg { background: transparent none repeat left top; background-size: auto auto; }
+#wb_main { height: 840px; padding-bottom: 30px; }
+#wb_main > .wb_cont_bg { background: transparent none repeat-x scroll left top; }
+#wb_footer { height: 90px; }
+#wb_footer > .wb_cont_bg { background: transparent none repeat-x scroll left top; }
+body { background: #ffffff none no-repeat scroll center top; background-size: auto auto; }
+.wb_sbg { background: transparent url("../gallery_gen/9d71d2ea6d4eb478b0cd69b19957e4ef.png") repeat-x center top; }
+body, .wb_sbg { min-width: 1200px; min-height: 1121px; }
+.wb_cont_inner { width: 1200px; }
+.wb_cont_bg { width: 1200px; margin-left: -600px; }
+.root { height: 1091px; overflow: visible; min-height: 1121px; }
+#wb_element_instance36 { top: 23px; left: 251px; min-width: 660px; width: 660px; min-height: 49px; height: 49px; display: block; z-index: 619; }
+#wb_element_instance37 { top: 91px; left: 251px; min-width: 660px; width: 660px; min-height: 36px; height: 36px; display: block; z-index: 624; }
+#wb_element_instance38 { top: 130px; left: 0; right: 0; min-height: 61px; height: 61px; display: block; z-index: 828; }
+#wb_element_instance38 > ul { display: block; }
+#wb_element_instance38 ul { background: transparent none repeat left top; border: 1px none #000000; }
+#wb_element_instance38, #wb_element_instance38 ul { text-align: center; }
+#wb_element_instance38 ul ul { background: #1f1f1f none repeat left top; }
+#wb_element_instance38 li { margin: 0px 10px 0px 10px; }
+#wb_element_instance38 li a { text-transform: none; border: 0px none #000000; padding: 25px 30px 20px 30px; font: normal bold 14px Poppins,sans-serif; text-decoration: none; color: #000000; line-height: 16px; background: transparent none repeat left top; }
+#wb_element_instance38 li.over > a, #wb_element_instance38 li:focus > a { border: 0px none #000000; font: normal bold 14px Poppins,sans-serif; text-decoration: none; color: #d28f5c; line-height: 16px; background: transparent none no-repeat center bottom; }
+#wb_element_instance38 li.active > a { border: 0px none #000000; font: normal bold 14px Poppins,sans-serif; text-decoration: none; color: #d28f5c; line-height: 16px; background: transparent none no-repeat center bottom; }
+#wb_element_instance38:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance38:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance38:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance39 { top: 10px; left: 890px; min-width: 310px; width: 310px; min-height: 24px; height: 24px; display: block; z-index: 627; }
+#wb_element_instance40 { top: 0px; left: 0; right: 0; min-height: 90px; height: 90px; display: block; z-index: 487; }
+#wb_element_instance40 > .wb_shp { background: #f2f2f2 none repeat scroll left top; background-size: auto auto; border: 5px none #c0c0c0; opacity: 1; border-radius: 0px 0px 10px 0px; -moz-border-radius: 0px 0px 10px 0px; -webkit-border-radius: 0px 0px 10px 0px; width: 100%; height: 90px; }
+#wb_element_instance41 { top: 50px; left: 0px; min-width: 1200px; width: 1200px; min-height: 65px; height: 65px; display: block; z-index: 191; }
+#wb_element_instance42 { top: 158px; left: 80px; min-width: 490px; width: 490px; min-height: 536px; height: 536px; display: block; z-index: 194; }
+#wb_element_instance43 { top: 90px; left: 620px; min-width: 500px; width: 500px; min-height: 690px; height: 690px; display: block; z-index: 195; }
+#wb_element_instance43 > .wb_shp { background: transparent url("../gallery_gen/9f4144cdf1e95e061fb2ce8ab8a504d1.jpg") repeat scroll center center; background-size: cover; border: 5px none #c0c0c0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 500px; height: 690px; }
+#wb_element_instance44 { top: 800px; left: 0px; display: block; z-index: 9000; }
+#wb_element_instance45 { top: 110px; left: 0px; display: block; z-index: 9999; }
+
+
+#wb_element_instance36 p:last-child { margin-bottom: 0; }
+#wb_element_instance37 p:last-child { margin-bottom: 0; }
+#wb_element_instance39 p:last-child { margin-bottom: 0; }
+#wb_element_instance41 p:last-child { margin-bottom: 0; }
+#wb_element_instance42 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (max-width: 767px) {
+}
